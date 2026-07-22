@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Snake animation](https://github.com/azarin-bayali/azarin-bayali/blob/output/github-contribution-grid-snake.svg)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20Azarin&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
