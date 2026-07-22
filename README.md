@@ -52,11 +52,6 @@ based_in: Edinburgh, UK
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azarin-bayali&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azarin-bayali&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=azarin-bayali&theme=tokyonight" />
 </p>
 
