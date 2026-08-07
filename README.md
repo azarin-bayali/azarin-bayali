@@ -125,7 +125,7 @@ open_to:        Research collaboration · Security engineering · A good CTF
 
 <div align="center"><img src="lightsaber-divider.svg" width="100%" alt="" /></div>
 
-<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+<!-- ═══════════════════════ SNAKE ═══════════════════════ 
 ## 🐍 Feeding the Sarlacc
 
 <div align="center">
@@ -136,7 +136,7 @@ open_to:        Research collaboration · Security engineering · A good CTF
 
 </div>
 
-<div align="center"><img src="assets/lightsaber-divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="assets/lightsaber-divider.svg" width="100%" alt="" /></div> -->
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 <div align="center">
