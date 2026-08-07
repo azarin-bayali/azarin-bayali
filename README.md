@@ -91,7 +91,7 @@ open_to:        Research collaboration · Security engineering · A good CTF
 
 <div align="center">
 
-<img src="assets/saber-clash.svg" width="100%" alt="Blue and red lightsabers clashing" />
+<img src="saber-clash.svg" width="100%" alt="Blue and red lightsabers clashing" />
 
 <br/>
 
@@ -103,7 +103,7 @@ open_to:        Research collaboration · Security engineering · A good CTF
 
 </div>
 
-<div align="center"><img src="assets/lightsaber-divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="lightsaber-divider.svg" width="100%" alt="" /></div>
 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
 ## 📡 Sensor Readouts
@@ -123,7 +123,7 @@ open_to:        Research collaboration · Security engineering · A good CTF
 
 </div>
 
-<div align="center"><img src="assets/lightsaber-divider.svg" width="100%" alt="" /></div>
+<div align="center"><img src="lightsaber-divider.svg" width="100%" alt="" /></div>
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 ## 🐍 Feeding the Sarlacc
