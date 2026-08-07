@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 90" width="1000" height="90" role="img" aria-label="Blue and red lightsabers clashing">
+  <defs>
+    <linearGradient id="hilt2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e2e6ec"/>
+      <stop offset="45%" stop-color="#8b939e"/>
+      <stop offset="100%" stop-color="#2b3038"/>
+    </linearGradient>
+    <filter id="halo" x="-15%" y="-500%" width="130%" height="1100%">
+      <feGaussianBlur stdDeviation="11"/>
+    </filter>
+    <filter id="core" x="-15%" y="-400%" width="130%" height="900%">
+      <feGaussianBlur stdDeviation="3.5"/>
+    </filter>
+    <radialGradient id="flare" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="1"/>
+      <stop offset="35%" stop-color="#a78bfa" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- ══ LEFT / BLUE ══ -->
+  <rect x="98" y="41" width="0" height="8" rx="4" fill="#38bdf8" filter="url(#halo)" opacity="0.9">
+    <animate attributeName="width" values="0;392;392;392;0;0" keyTimes="0;0.18;0.55;0.85;0.94;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.15 0.85 0.25 1;0 0 1 1;0 0 1 1;0.85 0 1 0.15;0 0 1 1"/>
+    <animate attributeName="opacity" values="0.9;0.7;0.95;0.9" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="98" y="43.6" width="0" height="2.8" rx="1.4" fill="#ffffff" filter="url(#core)">
+    <animate attributeName="width" values="0;392;392;392;0;0" keyTimes="0;0.18;0.55;0.85;0.94;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.15 0.85 0.25 1;0 0 1 1;0 0 1 1;0.85 0 1 0.15;0 0 1 1"/>
+  </rect>
+  <g>
+    <rect x="16" y="37" width="82" height="16" rx="3" fill="url(#hilt2)"/>
+    <rect x="94" y="35.5" width="8" height="19" rx="2" fill="#c8ced6"/>
+    <rect x="30" y="37" width="3" height="16" fill="#232830" opacity="0.85"/>
+    <rect x="38" y="37" width="3" height="16" fill="#232830" opacity="0.85"/>
+    <circle cx="62" cy="45" r="2.4" fill="#38bdf8"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- ══ RIGHT / RED ══ -->
+  <rect x="902" y="41" width="0" height="8" rx="4" fill="#f43f5e" filter="url(#halo)" opacity="0.9">
+    <animate attributeName="x" values="902;510;510;510;902;902" keyTimes="0;0.18;0.55;0.85;0.94;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.15 0.85 0.25 1;0 0 1 1;0 0 1 1;0.85 0 1 0.15;0 0 1 1"/>
+    <animate attributeName="width" values="0;392;392;392;0;0" keyTimes="0;0.18;0.55;0.85;0.94;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.15 0.85 0.25 1;0 0 1 1;0 0 1 1;0.85 0 1 0.15;0 0 1 1"/>
+    <animate attributeName="opacity" values="0.9;0.95;0.68;0.9" dur="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="902" y="43.6" width="0" height="2.8" rx="1.4" fill="#ffffff" filter="url(#core)">
+    <animate attributeName="x" values="902;510;510;510;902;902" keyTimes="0;0.18;0.55;0.85;0.94;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.15 0.85 0.25 1;0 0 1 1;0 0 1 1;0.85 0 1 0.15;0 0 1 1"/>
+    <animate attributeName="width" values="0;392;392;392;0;0" keyTimes="0;0.18;0.55;0.85;0.94;1" dur="8s" repeatCount="indefinite" calcMode="spline" keySplines="0.15 0.85 0.25 1;0 0 1 1;0 0 1 1;0.85 0 1 0.15;0 0 1 1"/>
+  </rect>
+  <g>
+    <rect x="902" y="37" width="82" height="16" rx="3" fill="url(#hilt2)"/>
+    <rect x="898" y="35.5" width="8" height="19" rx="2" fill="#c8ced6"/>
+    <rect x="960" y="37" width="3" height="16" fill="#232830" opacity="0.85"/>
+    <rect x="952" y="37" width="3" height="16" fill="#232830" opacity="0.85"/>
+    <circle cx="936" cy="45" r="2.4" fill="#f43f5e"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- ══ CLASH POINT ══ -->
+  <circle cx="500" cy="45" r="42" fill="url(#flare)" opacity="0">
+    <animate attributeName="opacity" values="0;0;1;0.55;0.75;0.5;0;0" keyTimes="0;0.17;0.2;0.35;0.55;0.85;0.9;1" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="r" values="42;52;42" dur="1.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- sparks -->
+  <g opacity="0">
+    <animate attributeName="opacity" values="0;0;1;0.6;0.6;0;0" keyTimes="0;0.18;0.22;0.4;0.82;0.88;1" dur="8s" repeatCount="indefinite"/>
+    <circle cx="500" cy="45" r="1.8" fill="#ffffff">
+      <animate attributeName="cy" values="45;14" dur="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="500;474" dur="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="1.2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="45" r="1.5" fill="#a78bfa">
+      <animate attributeName="cy" values="45;18" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="500;530" dur="1.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="45" r="1.6" fill="#ffffff">
+      <animate attributeName="cy" values="45;74" dur="1.4s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="500;516" dur="1.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="45" r="1.3" fill="#38bdf8">
+      <animate attributeName="cy" values="45;70" dur="1.9s" repeatCount="indefinite"/>
+      <animate attributeName="cx" values="500;468" dur="1.9s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="1;0" dur="1.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
