@@ -18,9 +18,11 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=azarin-bayali&style=for-the-badge&color=8B5CF6&label=HOLONET+VISITS" />
 
-</div>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4FC3F7,50:8B5CF6,100:F43F5E&height=3&section=header" width="100%" />
+<img src="assets/lightsaber-divider.svg" width="100%" alt="" />
+
+</div>
 
 <!-- ═══════════════════════ ABOUT ═══════════════════════ -->
 ## 🛰️ Transmission Received
@@ -55,7 +57,7 @@ open_to:        Research collaboration · Security engineering · A good CTF
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4FC3F7,50:8B5CF6,100:F43F5E&height=3&section=header" width="100%" />
+<div align="center"><img src="assets/lightsaber-divider.svg" width="100%" alt="" /></div>
 
 <!-- ═══════════════════════ ARSENAL ═══════════════════════ -->
 ## ⚔️ The Arsenal
@@ -82,7 +84,26 @@ open_to:        Research collaboration · Security engineering · A good CTF
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4FC3F7,50:8B5CF6,100:F43F5E&height=3&section=header" width="100%" />
+<div align="center"><img src="assets/lightsaber-divider.svg" width="100%" alt="" /></div>
+
+<!-- ═══════════════════════ JEDI WISDOM ═══════════════════════ -->
+## 🟢 Words of a Master
+
+<div align="center">
+
+<img src="assets/saber-clash.svg" width="100%" alt="Blue and red lightsabers clashing" />
+
+<br/>
+
+*Patch it you must, or breached you will be.*
+
+*Logs, always they speak. Listen, few do.*
+
+*Much to learn, still I have.*
+
+</div>
+
+<div align="center"><img src="assets/lightsaber-divider.svg" width="100%" alt="" /></div>
 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
 ## 📡 Sensor Readouts
@@ -100,13 +121,9 @@ open_to:        Research collaboration · Security engineering · A good CTF
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=azarin-bayali&bg_color=0D1117&color=4FC3F7&line=8B5CF6&point=EDEDED&area=true&hide_border=true&custom_title=Hyperspace%20Activity%20Log" width="95%" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=azarin-bayali&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4FC3F7,50:8B5CF6,100:F43F5E&height=3&section=header" width="100%" />
+<div align="center"><img src="assets/lightsaber-divider.svg" width="100%" alt="" /></div>
 
 <!-- ═══════════════════════ SNAKE ═══════════════════════ -->
 ## 🐍 Feeding the Sarlacc
@@ -119,7 +136,7 @@ open_to:        Research collaboration · Security engineering · A good CTF
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4FC3F7,50:8B5CF6,100:F43F5E&height=3&section=header" width="100%" />
+<div align="center"><img src="assets/lightsaber-divider.svg" width="100%" alt="" /></div>
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 <div align="center">
@@ -133,8 +150,6 @@ Research, security work, or a project worth building — the channel is open.
 </a>
 
 <br/><br/>
-
-<i>"Do not underestimate a well-written detection rule."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:3b1a5e,55:1b2a4a,100:0b0f1a&text=May%20the%20source%20be%20with%20you&fontSize=22&fontColor=EDEDED&fontAlignY=72&animation=twinkling" width="100%" />
 
