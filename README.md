@@ -105,13 +105,13 @@ open_to:        Research collaboration · Security engineering · A good CTF
 
 <div align="center"><img src="lightsaber-divider.svg" width="100%" alt="" /></div>
 
-<!-- ═══════════════════════ STATS ═══════════════════════ -->
+<!-- ═══════════════════════ STATS ═══════════════════════ 
 ## 📡 Sensor Readouts
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=azarin-bayali&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4FC3F7&icon_color=8B5CF6&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azarin-bayali&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azarin-bayali&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=4FC3F7&text_color=C9D1D9" /> -->
 
 <br/><br/>
 
